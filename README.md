@@ -5,7 +5,6 @@
 I bridge the gap between technical execution and business strategy, translating complex municipal and energy datasets into scalable, secure cloud architectures. I focus on deploying data-driven solutions that remove infrastructure bottlenecks and accelerate enterprise AI adoption.
 
 ### 🎯 Current Focus
-* **AI Research & Evaluation Fellowship (City of Boston):** Spearheading the development and testing of frameworks for generative AI adoption across municipal departments.
 * **Cloud Architecture for AI & ISV:** Developing scalable, cloud-native architectures optimized for Strategic AI and ISV partners, with an emphasis on high-performance pipelines and security-first design.
 * **Industry Engagement:** Active participant in Google Cloud’s **"Scaling Intelligence"** initiative, focusing on the integration of Agentic AI in R&D and pharmaceutical drug discovery workflows.
 
