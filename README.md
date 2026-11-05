@@ -23,7 +23,7 @@ I bridge the gap between technical execution and business strategy, translating 
 * **Spatial Analytics:** Quantified 28,666 GWh of rooftop solar potential using satellite-based geospatial pipelines.
 
 ### 📊 Featured Projects
-* **Neighborhood Responsiveness** — Analyzed 1.67M+ Boston 311 records (2020–2024) to evaluate municipal service equity.
+* **Neighborhood Responsiveness** — Analyzed 1.4M+ Boston 311 records (2020–2024) to evaluate municipal service equity.
     * **Key Finding:** Identified that population density, rather than socio-economic factors, primarily drives service response time gaps (r = 0.814, Adj. R² = 0.636).
     * **Stack:** R (`tidyverse`, `sf`, `ggplot2`).
 * **Grid Modernisation: Data Center Cost Allocation** — Built an optimal power flow model comparing how unrecovered grid-capacity costs are allocated between data centers and residential ratepayers under loose contracts vs. Ohio-style take-or-pay tariffs.
