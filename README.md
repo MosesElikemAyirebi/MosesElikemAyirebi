@@ -1,6 +1,6 @@
 # Hi, I'm Moses Elikem Ayirebi 👋
 
-**Infrastructure Program & Product Leader | M.S. Urban Planning & Policy**
+**Infrastructure Program & Product Leader**
 
 I bridge the gap between technical execution and business strategy, translating complex municipal and energy datasets into scalable, secure cloud architectures. I focus on deploying data-driven solutions that remove infrastructure bottlenecks and accelerate enterprise AI adoption.
 
